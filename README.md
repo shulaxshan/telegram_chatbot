@@ -2,7 +2,7 @@
 
 ### Step 1: Create the enviroment
 `
-conda create -p telebot python= 3.10.0 -y
+conda create -p telebot python= 3.7 -y
 `
 ### Step 2: Activate the enviroment
 `
